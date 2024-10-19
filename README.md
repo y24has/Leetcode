@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/y24has/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/y24has/Leetcode/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/y24has/Leetcode/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/y24has/Leetcode/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/y24has/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
@@ -32,4 +33,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/y24has/Leetcode/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/y24has/Leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
