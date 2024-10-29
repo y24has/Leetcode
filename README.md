@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/y24has/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/y24has/Leetcode/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/y24has/Leetcode/tree/master/0932-monotonic-array) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/y24has/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/y24has/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/y24has/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/y24has/Leetcode/tree/master/0075-sort-colors) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Math
 |  |
