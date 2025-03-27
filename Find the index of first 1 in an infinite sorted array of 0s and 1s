@@ -1,0 +1,46 @@
+class Solution {
+
+    // Function to find the index of first '1' using binary search
+    public static int indexOfFirstOne(int[] arr, int low, int high) {
+        int first_One = -1; // Initialize to -1 (not found)
+        
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (arr[mid] == 1) {
+                first_One = mid; // Update first occurrence
+                high = mid - 1;  // Move left to find earlier occurrence
+            } else {
+                low = mid + 1; // Move right
+            }
+        }
+        return first_One;
+    }
+
+    // Function to find the index of first 1 in an infinite sorted array
+    public static int posOfFirstOne(int[] arr) {
+        int l = 0, h = 1;
+
+        // Handle the case when the first element itself is 1
+        if (arr[l] == 1) {
+            return l;
+        }
+
+        // Expand the range exponentially until we find a 1
+        while (h < arr.length && arr[h] == 0) {
+            l = h;
+            h = 2 * h; // Doubling the index
+        }
+
+        // Ensure h does not go out of bounds
+        h = Math.min(h, arr.length - 1);
+
+        // Perform binary search within the identified range
+        return indexOfFirstOne(arr, l, h);
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {0, 0, 0, 0, 1, 1, 1, 1};
+        System.out.println("Index = " + posOfFirstOne(arr));
+    }
+}
