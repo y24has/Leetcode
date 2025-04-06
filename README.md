@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/y24has/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
@@ -82,9 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/y24has/Leetcode/tree/master/0066-plus-one) |
+| [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/y24has/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/y24has/Leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
