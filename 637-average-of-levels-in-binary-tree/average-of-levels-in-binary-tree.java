@@ -21,7 +21,6 @@ class Solution {
 
         q.offer(root);
         double sum=0.0;
-       // ans.add(sum);
         while(!q.isEmpty()){
            int n=q.size();
            sum=0;
