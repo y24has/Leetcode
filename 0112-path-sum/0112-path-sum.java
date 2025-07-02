@@ -26,7 +26,8 @@ class Solution {
         if(root.left==null &&root.right==null){
             return targetSum==currsum;
                  }
-        
-        return pathSum(root.left,currsum,targetSum) ||pathSum(root.right,currsum,targetSum); 
+        boolean left=pathSum(root.left,currsum,targetSum);
+        boolean right=pathSum(root.right,currsum,targetSum);
+        return left ||right; 
     }
 }
