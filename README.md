@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0932-monotonic-array](https://github.com/y24has/Leetcode/tree/master/0932-monotonic-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/y24has/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/y24has/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/y24has/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/y24has/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/y24has/Leetcode/tree/master/0567-permutation-in-string) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/y24has/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/y24has/Leetcode/tree/master/0169-majority-element) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/y24has/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
