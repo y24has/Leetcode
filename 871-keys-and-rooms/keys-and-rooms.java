@@ -2,13 +2,11 @@ class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
         int n=rooms.size();
         boolean[] visited=new boolean[n];
-       for(int i=0;i<n;i++){
         dfs(0,rooms,visited);
           
         for(boolean v:visited){
             if(!v) return false;
         }
-       }
         return true;
     }
 
