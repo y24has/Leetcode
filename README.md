@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/y24has/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/y24has/Leetcode/tree/master/0567-permutation-in-string) |
 | [1078-remove-outermost-parentheses](https://github.com/y24has/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/y24has/Leetcode/tree/master/1666-make-the-string-great) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/y24has/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/y24has/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/y24has/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/y24has/Leetcode/tree/master/1666-make-the-string-great) |
 ## Backtracking
 |  |
 | ------- |
