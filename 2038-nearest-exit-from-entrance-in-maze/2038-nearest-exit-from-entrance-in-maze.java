@@ -16,13 +16,13 @@ class Solution {
         int m=maze[0].length;
         boolean[][] visited=new boolean[n][m];
         visited[entrance[0]][entrance[1]]=true;
-        // for(int i=0;i<n;i++){
-        //     for(int j=0;j<m;j++){
-        //        if(maze[i][j]=='.' && !visited[i][j]){
-        //             visited[i][j]=true;
-        //         }
-        //     }
-        // }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+               if(maze[i][j]=='+' && !visited[i][j]){
+                    visited[i][j]=true;
+                }
+            }
+        }
         int[] drow = {-1, +1, 0, 0}; 
         int[] dcol = {0, 0, -1, +1}; 
 
@@ -52,7 +52,6 @@ class Solution {
             }
           }
         }
-
         return -1;
     }
 }
