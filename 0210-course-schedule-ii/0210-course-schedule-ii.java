@@ -30,7 +30,7 @@ class Solution {
     for(int neighbor:adj.get(node)){
         if(!visited[neighbor]){
            if(dfs(neighbor,visited,adj,path_visited,Topo)==false) return false;
-        }else if(path_visited[neighbor]==true) return false; 
+        }else if(path_visited[neighbor]) return false; 
     }
     path_visited[node]=false;
     Topo.add(node);
