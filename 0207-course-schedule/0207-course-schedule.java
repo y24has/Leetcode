@@ -8,7 +8,7 @@ class Solution {
        }
         for (int[] edge :prerequisites) {
         int u = edge[0], v = edge[1];
-        adj.get(u).add(v);
+        adj.get(v).add(u);
        }
        boolean[] visited=new boolean[n];
        boolean[] path_visited=new boolean[n];
