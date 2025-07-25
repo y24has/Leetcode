@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/y24has/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/y24has/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/y24has/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/y24has/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0463-island-perimeter](https://github.com/y24has/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/y24has/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/y24has/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/y24has/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/y24has/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/y24has/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/y24has/Leetcode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/y24has/Leetcode/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/y24has/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/y24has/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/y24has/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/y24has/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/y24has/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/y24has/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/y24has/Leetcode/tree/master/0792-binary-search) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/y24has/Leetcode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/y24has/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/y24has/Leetcode/tree/master/0389-find-the-difference) |
 | [0795-k-th-symbol-in-grammar](https://github.com/y24has/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/y24has/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
