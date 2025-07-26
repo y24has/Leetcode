@@ -27,12 +27,15 @@ class Solution {
                 }
             }
         }
-    for (int i = 1; i <= n; i++) {
-    if (dist[i] == Integer.MAX_VALUE) return -1;
+        for (int i = 1; i <= n; i++) {
+    if (dist[i] == Integer.MAX_VALUE) return -1; 
 }
+
     int max=0;
     for(int i=1;i<=n;i++){
-           max=Math.max(dist[i],max);
+            if(dist[i]>max){
+                max =dist[i];
+            }
         }
       return max;
     }
