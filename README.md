@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/y24has/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/y24has/Leetcode/tree/master/1036-rotting-oranges) |
 | [1168-duplicate-zeros](https://github.com/y24has/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/y24has/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/y24has/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/y24has/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1036-rotting-oranges](https://github.com/y24has/Leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/y24has/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/y24has/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/y24has/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/y24has/Leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/y24has/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/y24has/Leetcode/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/y24has/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/y24has/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 ## Topological Sort
