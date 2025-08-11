@@ -13,6 +13,7 @@ class Solution {
             indegree[target]++;
         }
         int count=0;
+         int champ=-1;
         for(int i=0;i<n;i++){
             if(indegree[i]==0){       
                 count++;
@@ -21,22 +22,22 @@ class Solution {
         if(count>1) return -1;
         int[] visited=new int[n];
         int[] path_visited=new int[n];
-
+    
         Arrays.fill(visited,-1);
         Arrays.fill(path_visited,-1);
         for(int i=0;i<n;i++){
             if(indegree[i]==0){
-                int champ=i;
+                champ=i;
                 if(dfs(i,edges,adj,visited,path_visited)==false){
                    for(int j=0;j<n;j++){ 
-                    if(visited[j]!=-1){
-                       return champ;
+                    if(visited[j]==-1){
+                       return -1;
                     }
                    }
                 } 
             }
         }
-      return -1;
+      return champ;
     }
 
     static boolean dfs(int node,int[][] edges,List<List<Integer>> adj,int[] visited,int[] path_visited){
