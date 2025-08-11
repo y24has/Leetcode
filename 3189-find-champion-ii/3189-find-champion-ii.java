@@ -49,10 +49,11 @@ class Solution {
                 if(dfs(neighbor,edges,adj,visited,path_visited)==true){
                     return true;
                 }
+            }
                 else if(path_visited[neighbor]==1){
                     return true;
                 }
-            }
+            
         }
         path_visited[node]=0;
         return false;
