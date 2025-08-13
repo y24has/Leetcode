@@ -21,6 +21,8 @@ class Solution {
             int[] curr=q.poll();
             int val=curr[0],row=curr[1],col=curr[2];
             
+            if (val > min[row][col]) continue;
+
             for(int i=0;i<2;i++){
                 int r=row+drow[i];
                 int c=col+dcol[i];
