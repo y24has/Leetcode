@@ -22,6 +22,10 @@ class Solution {
             int j = curr[2];
             int parity=curr[3];
             
+            if(i==m-1 && j==n-1) {
+                return result[i][j];
+            }
+
             for (int o=0;o<4;o++) {
                 int i_ = i + drow[o];
                 int j_ = j + dcol[o];
@@ -42,6 +46,6 @@ class Solution {
                 }
             }
         }
-    return result[m-1][n-1]; 
+    return -1; 
     }
 }
