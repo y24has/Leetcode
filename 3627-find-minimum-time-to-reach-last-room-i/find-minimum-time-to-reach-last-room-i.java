@@ -34,7 +34,7 @@ class Solution {
                      wait = moveTime[i_][j_] - currTime;
                      arrTime+=wait;
                    }
-                    arrTime++;
+                       arrTime++;
                     if (result[i_][j_] > arrTime) {
                         result[i_][j_] = arrTime;
                         pq.offer(new int[]{arrTime, i_, j_});
