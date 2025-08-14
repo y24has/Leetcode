@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/y24has/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/y24has/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/y24has/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/y24has/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/y24has/Leetcode/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/y24has/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/y24has/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/y24has/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Heap (Priority Queue)
 |  |
