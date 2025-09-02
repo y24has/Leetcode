@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-alternating-subarrays">3374. Count Alternating Subarrays</a></h2><h3>Medium</h3><hr><p>You are given a <span data-keyword="binary-array">binary array</span> <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-alternating-subarrays">Count Alternating Subarrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given a <span data-keyword="binary-array">binary array</span> <code>nums</code>.</p>
 
 <p>We call a <span data-keyword="subarray-nonempty">subarray</span> <strong>alternating</strong> if <strong>no</strong> two <strong>adjacent</strong> elements in the subarray have the <strong>same</strong> value.</p>
 
