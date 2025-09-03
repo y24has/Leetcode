@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/y24has/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/y24has/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/y24has/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1542-consecutive-characters](https://github.com/y24has/Leetcode/tree/master/1542-consecutive-characters) |
 | [1666-make-the-string-great](https://github.com/y24has/Leetcode/tree/master/1666-make-the-string-great) |
 ## Bit Manipulation
 |  |
