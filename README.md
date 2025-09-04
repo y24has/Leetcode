@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/y24has/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/y24has/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/y24has/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/y24has/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/y24has/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/y24has/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/y24has/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/y24has/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/y24has/Leetcode/tree/master/0383-ransom-note) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/y24has/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/y24has/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/y24has/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/y24has/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/y24has/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/y24has/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/y24has/Leetcode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/y24has/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
