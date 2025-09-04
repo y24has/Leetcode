@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/y24has/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/y24has/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3374-count-alternating-subarrays](https://github.com/y24has/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3830-find-closest-person](https://github.com/y24has/Leetcode/tree/master/3830-find-closest-person) |
 ## Divide and Conquer
 |  |
 | ------- |
