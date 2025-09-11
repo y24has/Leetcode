@@ -5,8 +5,8 @@ class Solution {
         Map<Integer,Integer> map=new HashMap<>();
         int count=0;
         for(right=0;right<fruits.length;right++){
-            int num=fruits[right];
-            map.put(num,map.getOrDefault(num,0)+1);
+        
+            map.put(fruits[right],map.getOrDefault(fruits[right],0)+1);
 
             while(map.size()>2){
                 int left_num=fruits[left];
