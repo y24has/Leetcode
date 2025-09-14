@@ -19,11 +19,7 @@ class Solution {
                 t_idx++;
                 }
             }
-            // while(!s.isEmpty() && s.peek() == popped[t_idx]){
-            //  s.pop();
-            //  j++;
-        }
-        
-     return  (s.isEmpty() && t_idx==popped.length);
+    }
+      return  (s.isEmpty() && t_idx==popped.length);
     }
 }
