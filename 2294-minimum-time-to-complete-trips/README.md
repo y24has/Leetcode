@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-time-to-complete-trips">2294. Minimum Time to Complete Trips</a></h2><h3>Medium</h3><hr><p>You are given an array <code>time</code> where <code>time[i]</code> denotes the time taken by the <code>i<sup>th</sup></code> bus to complete <strong>one trip</strong>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-time-to-complete-trips">Minimum Time to Complete Trips</a></h2> <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' /><hr><p>You are given an array <code>time</code> where <code>time[i]</code> denotes the time taken by the <code>i<sup>th</sup></code> bus to complete <strong>one trip</strong>.</p>
 
 <p>Each bus can make multiple trips <strong>successively</strong>; that is, the next trip can start <strong>immediately after</strong> completing the current trip. Also, each bus operates <strong>independently</strong>; that is, the trips of one bus do not influence the trips of any other bus.</p>
 
