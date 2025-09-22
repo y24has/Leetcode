@@ -9,16 +9,16 @@ class Solution {
             high=Math.max(day,high);
         }
         int ans=-1;
-        while(low<=high){
+        while(low<high){
             int mid=low+(high-low)/2;
             if(checkBouquets(bloomDay,mid,m,k)){
-               ans=mid;
-               high=mid-1;
+               //ans=mid;
+               high=mid;
             }else{
                 low=mid+1;
             }
         }
-        return ans;
+        return low;
     }
 
     static boolean checkBouquets(int[] bloomDay,int mid, int m, int k){
