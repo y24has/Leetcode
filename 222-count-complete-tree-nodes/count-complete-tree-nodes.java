@@ -19,16 +19,16 @@ class Solution {
 
         Queue<TreeNode> q = new LinkedList<>();
         q.offer(root);
-        int count = 1; 
+        int count = 0; 
 
         while (!q.isEmpty()) {
             TreeNode curr = q.poll();
-             
+             count++;
 
-            if (curr.left != null) { count++;
+            if (curr.left != null) { 
             q.offer(curr.left);
             } 
-            if (curr.right != null) {count++;
+            if (curr.right != null) {
             q.offer(curr.right);
             } 
         }
