@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/y24has/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/y24has/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/y24has/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/y24has/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/y24has/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2793-count-the-number-of-complete-components](https://github.com/y24has/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/y24has/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
+| [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/y24has/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
 |  |
 | ------- |
