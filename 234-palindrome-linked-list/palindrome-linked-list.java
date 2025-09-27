@@ -28,7 +28,6 @@ class Solution {
         temp=temp.next;
         right=right.next;
        }
-       reverse(right);
        return true;
     }
     private static ListNode reverse(ListNode slow){
