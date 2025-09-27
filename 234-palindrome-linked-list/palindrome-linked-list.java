@@ -19,7 +19,7 @@ class Solution {
         slow=slow.next;
         fast=fast.next.next;
        }
-       if(previous!=null && previous.next!=null){
+       if(previous!=null ){
        previous.next=null;
        }
        ListNode right=reverse(slow);
@@ -28,6 +28,7 @@ class Solution {
         temp=temp.next;
         right=right.next;
        }
+       reverse(right);
        return true;
     }
     private static ListNode reverse(ListNode slow){
