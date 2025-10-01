@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/y24has/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/y24has/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/y24has/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/y24has/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/y24has/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/y24has/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/y24has/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/y24has/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/y24has/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2470-removing-stars-from-a-string](https://github.com/y24has/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Bit Manipulation
