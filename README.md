@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/y24has/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/y24has/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/y24has/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/y24has/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0463-island-perimeter](https://github.com/y24has/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/y24has/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/y24has/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/y24has/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/y24has/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/y24has/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/y24has/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/y24has/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/y24has/Leetcode/tree/master/0409-longest-palindrome) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/y24has/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/y24has/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/y24has/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/y24has/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/y24has/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/y24has/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/y24has/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/y24has/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/y24has/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/y24has/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/y24has/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/y24has/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/y24has/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/y24has/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/y24has/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/y24has/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/y24has/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/y24has/Leetcode/tree/master/0389-find-the-difference) |
 | [0941-sort-array-by-parity](https://github.com/y24has/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/y24has/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
