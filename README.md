@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/y24has/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1603-running-sum-of-1d-array](https://github.com/y24has/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/y24has/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1646-kth-missing-positive-number](https://github.com/y24has/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/y24has/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/y24has/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/y24has/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 ## Design
 |  |
 | ------- |
