@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3374-count-alternating-subarrays](https://github.com/y24has/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/y24has/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/y24has/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/y24has/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/y24has/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Hash Table
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/y24has/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/y24has/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String
 |  |
 | ------- |
