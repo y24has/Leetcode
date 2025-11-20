@@ -18,8 +18,8 @@ class Solution {
       }
         int[] res=new int[nums.length];
         for(int i=0;i<nums.length;i++){
-        res[i]=Math.abs(rightsum[i]-leftsum[i]);
+        nums[i]=Math.abs(rightsum[i]-leftsum[i]);
         }
-    return res;
+    return nums;
     }
 }
