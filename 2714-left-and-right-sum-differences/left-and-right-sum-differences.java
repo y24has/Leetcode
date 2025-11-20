@@ -16,7 +16,6 @@ class Solution {
             leftsum[i]=leftsum[i+1]+nums[i+1];
         }
       }
-        int[] res=new int[nums.length];
         for(int i=0;i<nums.length;i++){
         nums[i]=Math.abs(rightsum[i]-leftsum[i]);
         }
