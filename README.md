@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/y24has/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/y24has/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/y24has/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/y24has/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/y24has/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/y24has/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/y24has/Leetcode/tree/master/0066-plus-one) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/y24has/Leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/y24has/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/y24has/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/y24has/Leetcode/tree/master/0189-rotate-array) |
 | [0441-arranging-coins](https://github.com/y24has/Leetcode/tree/master/0441-arranging-coins) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/y24has/Leetcode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/y24has/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/y24has/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/y24has/Leetcode/tree/master/0463-island-perimeter) |
