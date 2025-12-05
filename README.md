@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/y24has/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3374-count-alternating-subarrays](https://github.com/y24has/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/y24has/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/y24has/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/y24has/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/y24has/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/y24has/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3374-count-alternating-subarrays](https://github.com/y24has/Leetcode/tree/master/3374-count-alternating-subarrays) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/y24has/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3830-find-closest-person](https://github.com/y24has/Leetcode/tree/master/3830-find-closest-person) |
 ## Divide and Conquer
 |  |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2714-left-and-right-sum-differences](https://github.com/y24has/Leetcode/tree/master/2714-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/y24has/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Design
 |  |
 | ------- |
