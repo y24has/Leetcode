@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/y24has/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/y24has/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/y24has/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/y24has/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/y24has/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/y24has/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/y24has/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/y24has/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/y24has/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2470-removing-stars-from-a-string](https://github.com/y24has/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/y24has/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2810-faulty-keyboard](https://github.com/y24has/Leetcode/tree/master/2810-faulty-keyboard) |
 ## Bit Manipulation
