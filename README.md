@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0764-n-ary-tree-level-order-traversal](https://github.com/y24has/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0872-leaf-similar-trees](https://github.com/y24has/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/y24has/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Breadth-First Search
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/y24has/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/y24has/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/y24has/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/y24has/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/y24has/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/y24has/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/y24has/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/y24has/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Depth-First Search
@@ -574,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/y24has/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/y24has/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/y24has/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
