@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/y24has/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/y24has/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/y24has/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/y24has/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/y24has/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/y24has/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/y24has/Leetcode/tree/master/0066-plus-one) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/y24has/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/y24has/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/y24has/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/y24has/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/y24has/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/y24has/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/y24has/Leetcode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/y24has/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/y24has/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/y24has/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/y24has/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/y24has/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/y24has/Leetcode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/y24has/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/y24has/Leetcode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/y24has/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/y24has/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/y24has/Leetcode/tree/master/0151-reverse-words-in-a-string) |
