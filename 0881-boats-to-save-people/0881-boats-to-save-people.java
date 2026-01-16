@@ -7,17 +7,13 @@ class Solution {
         int high=people.length-1;
      
 
-        while(low<=high){
-
-            if(people[low]+people[high]<=limit){
-                count++;
-                low++;
-                high--;
-            }else if(people[low]+people[high]>limit){
-             count++;
-             high--;
-            }
-        }
+       while (low <= high) {
+       if (people[low] + people[high] <= limit) {
+        low++;
+       }
+       high--;
+       count++;
+}
         return count;
     }
 }
