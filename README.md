@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/y24has/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/y24has/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1876-map-of-highest-peak](https://github.com/y24has/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/y24has/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/y24has/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/y24has/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/y24has/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/y24has/Leetcode/tree/master/1323-maximum-69-number) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/y24has/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/y24has/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/y24has/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/y24has/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/y24has/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/y24has/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
