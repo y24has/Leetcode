@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/y24has/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/y24has/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/y24has/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/y24has/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/y24has/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/y24has/Leetcode/tree/master/0053-maximum-subarray) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/y24has/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/y24has/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/y24has/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/y24has/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/y24has/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/y24has/Leetcode/tree/master/0086-partition-list) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/y24has/Leetcode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/y24has/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/y24has/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/y24has/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/y24has/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/y24has/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/y24has/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -763,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/y24has/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/y24has/Leetcode/tree/master/0937-online-stock-span) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/y24has/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
