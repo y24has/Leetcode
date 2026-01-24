@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/y24has/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0981-delete-columns-to-make-sorted](https://github.com/y24has/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/y24has/Leetcode/tree/master/0983-validate-stack-sequences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/y24has/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/y24has/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/y24has/Leetcode/tree/master/1036-rotting-oranges) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/y24has/Leetcode/tree/master/0567-permutation-in-string) |
 | [0940-fruit-into-baskets](https://github.com/y24has/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/y24has/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/y24has/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/y24has/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/y24has/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/y24has/Leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/y24has/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/y24has/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [0992-subarrays-with-k-different-integers](https://github.com/y24has/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/y24has/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/y24has/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/y24has/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/y24has/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/y24has/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/y24has/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/y24has/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
