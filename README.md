@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/y24has/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1168-duplicate-zeros](https://github.com/y24has/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/y24has/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/y24has/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/y24has/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0958-sort-array-by-parity-ii](https://github.com/y24has/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y24has/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/y24has/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
