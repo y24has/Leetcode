@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/y24has/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/y24has/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/y24has/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/y24has/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/y24has/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/y24has/Leetcode/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/y24has/Leetcode/tree/master/1328-break-a-palindrome) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/y24has/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0981-delete-columns-to-make-sorted](https://github.com/y24has/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1078-remove-outermost-parentheses](https://github.com/y24has/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/y24has/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/y24has/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/y24has/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/y24has/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/y24has/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/y24has/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [1078-remove-outermost-parentheses](https://github.com/y24has/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/y24has/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/y24has/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/y24has/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/y24has/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/y24has/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/y24has/Leetcode/tree/master/0937-online-stock-span) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/y24has/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/y24has/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Data Stream
 |  |
