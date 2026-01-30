@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2551-apply-operations-to-an-array](https://github.com/y24has/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/y24has/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2938-separate-black-and-white-balls](https://github.com/y24has/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/y24has/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2405-optimal-partition-of-string](https://github.com/y24has/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2938-separate-black-and-white-balls](https://github.com/y24has/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/y24has/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/y24has/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/y24has/Leetcode/tree/master/2810-faulty-keyboard) |
+| [2938-separate-black-and-white-balls](https://github.com/y24has/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
