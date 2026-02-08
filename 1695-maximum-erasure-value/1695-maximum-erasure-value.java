@@ -23,9 +23,10 @@ class Solution {
                 }
                 left++;
             }
-
+            if(map.size()==right-left+1){
             maxSum = Math.max(maxSum, currSum);
-        }
+         }
+        } 
 
         return maxSum;
     }
