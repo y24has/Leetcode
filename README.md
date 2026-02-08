@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/y24has/Leetcode/tree/master/1651-shuffle-string) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y24has/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1695-maximum-erasure-value](https://github.com/y24has/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/y24has/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/y24has/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/y24has/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y24has/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/y24has/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/y24has/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/y24has/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/y24has/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1695-maximum-erasure-value](https://github.com/y24has/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/y24has/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
