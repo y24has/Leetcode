@@ -11,12 +11,13 @@ class Solution {
         if (!set.contains(i)) {
             sum += i;      
             count++;      
+          
+            }
             if (sum > maxSum) {
                 count--;  
                 break;    
             }
         }
-    }
     return count;
     }
 }
