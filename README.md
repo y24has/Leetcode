@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/y24has/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/y24has/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/y24has/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/y24has/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/y24has/Leetcode/tree/master/1168-duplicate-zeros) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y24has/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/y24has/Leetcode/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/y24has/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/y24has/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/y24has/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/y24has/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/y24has/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/y24has/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/y24has/Leetcode/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y24has/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/y24has/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -819,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/y24has/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/y24has/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1603-running-sum-of-1d-array](https://github.com/y24has/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
