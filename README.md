@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/y24has/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/y24has/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/y24has/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/y24has/Leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0872-leaf-similar-trees](https://github.com/y24has/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/y24has/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/y24has/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/y24has/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/y24has/Leetcode/tree/master/0872-leaf-similar-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -894,4 +896,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/y24has/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/y24has/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
