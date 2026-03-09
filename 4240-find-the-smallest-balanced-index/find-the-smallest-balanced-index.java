@@ -18,9 +18,7 @@ class Solution {
             if(product >prefix_sum[i]) {
              return index; 
             }
-            else{
-              product = product * nums[i];
-        }
+            product = product * nums[i];
       }
     return index;
     }
