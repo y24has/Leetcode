@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/y24has/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/y24has/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/y24has/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/y24has/Leetcode/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/y24has/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/y24has/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/y24has/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/y24has/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/y24has/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/y24has/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/y24has/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/y24has/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -733,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/y24has/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/y24has/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/y24has/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/y24has/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/y24has/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/y24has/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/y24has/Leetcode/tree/master/0739-daily-temperatures) |
