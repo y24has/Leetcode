@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/y24has/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/y24has/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/y24has/Leetcode/tree/master/0189-rotate-array) |
+| [0227-basic-calculator-ii](https://github.com/y24has/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0441-arranging-coins](https://github.com/y24has/Leetcode/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/y24has/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/y24has/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/y24has/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/y24has/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0227-basic-calculator-ii](https://github.com/y24has/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/y24has/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/y24has/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/y24has/Leetcode/tree/master/0290-word-pattern) |
@@ -737,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/y24has/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/y24has/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/y24has/Leetcode/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/y24has/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/y24has/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/y24has/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/y24has/Leetcode/tree/master/0682-baseball-game) |
