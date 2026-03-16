@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/y24has/Leetcode/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/y24has/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/y24has/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/y24has/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/y24has/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0441-arranging-coins](https://github.com/y24has/Leetcode/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/y24has/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/y24has/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/y24has/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/y24has/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/y24has/Leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/y24has/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/y24has/Leetcode/tree/master/0394-decode-string) |
 | [0795-k-th-symbol-in-grammar](https://github.com/y24has/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/y24has/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/y24has/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/y24has/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/y24has/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/y24has/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/y24has/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/y24has/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/y24has/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/y24has/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/y24has/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/y24has/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/y24has/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/y24has/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/y24has/Leetcode/tree/master/0394-decode-string) |
