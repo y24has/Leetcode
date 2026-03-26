@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/y24has/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/y24has/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/y24has/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/y24has/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/y24has/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/y24has/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/y24has/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/y24has/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/y24has/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2294-minimum-time-to-complete-trips](https://github.com/y24has/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/y24has/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
