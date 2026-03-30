@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/y24has/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/y24has/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/y24has/Leetcode/tree/master/0792-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/y24has/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/y24has/Leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/y24has/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/y24has/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/y24has/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/y24has/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/y24has/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/y24has/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/y24has/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0908-middle-of-the-linked-list](https://github.com/y24has/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-reverse-only-letters](https://github.com/y24has/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/y24has/Leetcode/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/y24has/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/y24has/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0826-most-profit-assigning-work](https://github.com/y24has/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/y24has/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/y24has/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/y24has/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/y24has/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/y24has/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/y24has/Leetcode/tree/master/0792-binary-search) |
+| [0826-most-profit-assigning-work](https://github.com/y24has/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/y24has/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/y24has/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/y24has/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/y24has/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/y24has/Leetcode/tree/master/0502-ipo) |
 | [0658-find-k-closest-elements](https://github.com/y24has/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0826-most-profit-assigning-work](https://github.com/y24has/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0853-car-fleet](https://github.com/y24has/Leetcode/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/y24has/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/y24has/Leetcode/tree/master/0941-sort-array-by-parity) |
