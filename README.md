@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/y24has/Leetcode/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/y24has/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1095-find-in-mountain-array](https://github.com/y24has/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1168-duplicate-zeros](https://github.com/y24has/Leetcode/tree/master/1168-duplicate-zeros) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/y24has/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/y24has/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/y24has/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1095-find-in-mountain-array](https://github.com/y24has/Leetcode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/y24has/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/y24has/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
@@ -949,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/y24has/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/y24has/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1095-find-in-mountain-array](https://github.com/y24has/Leetcode/tree/master/1095-find-in-mountain-array) |
 ## Database
 |  |
 | ------- |
