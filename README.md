@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/y24has/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2512-reward-top-k-students](https://github.com/y24has/Leetcode/tree/master/2512-reward-top-k-students) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/y24has/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/y24has/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/y24has/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2405-optimal-partition-of-string](https://github.com/y24has/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/y24has/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/y24has/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2938-separate-black-and-white-balls](https://github.com/y24has/Leetcode/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
@@ -922,6 +924,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-single-threaded-cpu](https://github.com/y24has/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1845-seat-reservation-manager](https://github.com/y24has/Leetcode/tree/master/1845-seat-reservation-manager) |
 | [2512-reward-top-k-students](https://github.com/y24has/Leetcode/tree/master/2512-reward-top-k-students) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/y24has/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/y24has/Leetcode/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/y24has/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/y24has/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
