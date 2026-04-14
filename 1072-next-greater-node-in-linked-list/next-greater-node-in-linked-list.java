@@ -20,13 +20,12 @@ class Solution {
         int[] res = new int[n];
         Stack<Integer> stack = new Stack<>();
 
-   
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && list.get(i) > list.get(stack.peek())) {
-                int idx = stack.pop();
-                res[idx] = list.get(i);
+    for (int i = n - 1; i >= 0; i--) {
+            while (!stack.isEmpty() && stack.peek() <= list.get(i)) {
+                stack.pop();
             }
-            stack.push(i);
+            res[i] = stack.isEmpty() ? 0 : stack.peek();
+            stack.push(list.get(i));
         }
 
         return res;
