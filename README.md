@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2105-watering-plants-ii](https://github.com/y24has/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/y24has/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/y24has/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/y24has/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/y24has/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/y24has/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2405-optimal-partition-of-string](https://github.com/y24has/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2512-reward-top-k-students](https://github.com/y24has/Leetcode/tree/master/2512-reward-top-k-students) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/y24has/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/y24has/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/y24has/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-k-th-symbol-in-grammar](https://github.com/y24has/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/y24has/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 ## Linked List
 |  |
 | ------- |
