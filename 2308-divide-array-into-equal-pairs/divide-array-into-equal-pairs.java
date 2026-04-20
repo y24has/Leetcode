@@ -10,11 +10,9 @@ class Solution {
         
         for (int key : map.keySet()) {
             int val = map.get(key);
-            while (val >= 2) {
-                val -= 2;
-            }
-
-            if (val != 0) {
+            int rem=val/2;
+            val-=2*rem;
+            if (val!=0) {
                 return false;
             }
         }
