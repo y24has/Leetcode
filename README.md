@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2105-watering-plants-ii](https://github.com/y24has/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/y24has/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/y24has/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/y24has/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/y24has/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/y24has/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/y24has/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2295-replace-elements-in-an-array](https://github.com/y24has/Leetcode/tree/master/2295-replace-elements-in-an-array) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/y24has/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/y24has/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/y24has/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
