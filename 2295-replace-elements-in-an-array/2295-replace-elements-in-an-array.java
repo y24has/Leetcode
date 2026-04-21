@@ -13,8 +13,6 @@ class Solution {
             int index = map.get(oldVal);
 
             nums[index] = newVal;
-
-            map.remove(oldVal);
             map.put(newVal, index);
         }
 
