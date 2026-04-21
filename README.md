@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/y24has/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/y24has/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2294-minimum-time-to-complete-trips](https://github.com/y24has/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
+| [2295-replace-elements-in-an-array](https://github.com/y24has/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/y24has/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2512-reward-top-k-students](https://github.com/y24has/Leetcode/tree/master/2512-reward-top-k-students) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/y24has/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2295-replace-elements-in-an-array](https://github.com/y24has/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2405-optimal-partition-of-string](https://github.com/y24has/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2512-reward-top-k-students](https://github.com/y24has/Leetcode/tree/master/2512-reward-top-k-students) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -916,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/y24has/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/y24has/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2295-replace-elements-in-an-array](https://github.com/y24has/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/y24has/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2470-removing-stars-from-a-string](https://github.com/y24has/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/y24has/Leetcode/tree/master/2551-apply-operations-to-an-array) |
