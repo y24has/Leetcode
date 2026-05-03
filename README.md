@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/y24has/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/y24has/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/y24has/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/y24has/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/y24has/Leetcode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1039-find-the-town-judge](https://github.com/y24has/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1054-distant-barcodes](https://github.com/y24has/Leetcode/tree/master/1054-distant-barcodes) |
+| [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y24has/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/y24has/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/y24has/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/y24has/Leetcode/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/y24has/Leetcode/tree/master/1328-break-a-palindrome) |
+| [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/y24has/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y24has/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1833-maximum-ice-cream-bars](https://github.com/y24has/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/y24has/Leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/y24has/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/y24has/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y24has/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -951,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/y24has/Leetcode/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/y24has/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/y24has/Leetcode/tree/master/1094-car-pooling) |
+| [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/y24has/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
