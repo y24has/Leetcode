@@ -1089,4 +1089,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/y24has/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/y24has/Leetcode/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
