@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2799-count-complete-subarrays-in-an-array](https://github.com/y24has/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/y24has/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/y24has/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/y24has/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/y24has/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/y24has/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/y24has/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/y24has/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/y24has/Leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Sorting
 |  |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/y24has/Leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2810-faulty-keyboard](https://github.com/y24has/Leetcode/tree/master/2810-faulty-keyboard) |
 | [2938-separate-black-and-white-balls](https://github.com/y24has/Leetcode/tree/master/2938-separate-black-and-white-balls) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/y24has/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
