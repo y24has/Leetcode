@@ -596,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/y24has/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2405-optimal-partition-of-string](https://github.com/y24has/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2470-removing-stars-from-a-string](https://github.com/y24has/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/y24has/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2512-reward-top-k-students](https://github.com/y24has/Leetcode/tree/master/2512-reward-top-k-students) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/y24has/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -1002,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/y24has/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/y24has/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2615-sum-of-distances](https://github.com/y24has/Leetcode/tree/master/2615-sum-of-distances) |
 | [2714-left-and-right-sum-differences](https://github.com/y24has/Leetcode/tree/master/2714-left-and-right-sum-differences) |
