@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/y24has/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0958-sort-array-by-parity-ii](https://github.com/y24has/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/y24has/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/y24has/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0981-delete-columns-to-make-sorted](https://github.com/y24has/Leetcode/tree/master/0981-delete-columns-to-make-sorted) |
 | [0983-validate-stack-sequences](https://github.com/y24has/Leetcode/tree/master/0983-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/y24has/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/y24has/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/y24has/Leetcode/tree/master/0948-bag-of-tokens) |
 | [0958-sort-array-by-parity-ii](https://github.com/y24has/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/y24has/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1054-distant-barcodes](https://github.com/y24has/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/y24has/Leetcode/tree/master/1094-car-pooling) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/y24has/Leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/y24has/Leetcode/tree/master/0441-arranging-coins) |
 | [0795-k-th-symbol-in-grammar](https://github.com/y24has/Leetcode/tree/master/0795-k-th-symbol-in-grammar) |
+| [0973-k-closest-points-to-origin](https://github.com/y24has/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
 | [1323-maximum-69-number](https://github.com/y24has/Leetcode/tree/master/1323-maximum-69-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/y24has/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/y24has/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/y24has/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/y24has/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/y24has/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [3719-longest-balanced-subarray-i](https://github.com/y24has/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Recursion
 |  |
@@ -961,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/y24has/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0744-network-delay-time](https://github.com/y24has/Leetcode/tree/master/0744-network-delay-time) |
 | [0767-reorganize-string](https://github.com/y24has/Leetcode/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/y24has/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/y24has/Leetcode/tree/master/1046-last-stone-weight) |
 | [1054-distant-barcodes](https://github.com/y24has/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/y24has/Leetcode/tree/master/1094-car-pooling) |
@@ -1052,6 +1057,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/y24has/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/y24has/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/y24has/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1104,4 +1110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/y24has/Leetcode/tree/master/1791-find-center-of-star-graph) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/y24has/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
