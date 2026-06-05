@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/y24has/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/y24has/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/y24has/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/y24has/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2294-minimum-time-to-complete-trips](https://github.com/y24has/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/y24has/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -541,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/y24has/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/y24has/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/y24has/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/y24has/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/y24has/Leetcode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/y24has/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/y24has/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2128-reverse-prefix-of-word](https://github.com/y24has/Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2211-count-collisions-on-a-road](https://github.com/y24has/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-ways-to-make-a-fair-array](https://github.com/y24has/Leetcode/tree/master/1664-ways-to-make-a-fair-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/y24has/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/y24has/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/y24has/Leetcode/tree/master/2559-count-vowel-strings-in-ranges) |
