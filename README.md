@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/y24has/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/y24has/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/y24has/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/y24has/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -1035,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/y24has/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/y24has/Leetcode/tree/master/1094-car-pooling) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/y24has/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/y24has/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1603-running-sum-of-1d-array](https://github.com/y24has/Leetcode/tree/master/1603-running-sum-of-1d-array) |
