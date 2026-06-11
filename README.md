@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/y24has/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/y24has/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/y24has/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0460-lfu-cache](https://github.com/y24has/Leetcode/tree/master/0460-lfu-cache) |
 | [0525-contiguous-array](https://github.com/y24has/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/y24has/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/y24has/Leetcode/tree/master/0567-permutation-in-string) |
@@ -658,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/y24has/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/y24has/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/y24has/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0460-lfu-cache](https://github.com/y24has/Leetcode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/y24has/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/y24has/Leetcode/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/y24has/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/y24has/Leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/y24has/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/y24has/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/y24has/Leetcode/tree/master/0460-lfu-cache) |
 | [0705-design-hashset](https://github.com/y24has/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/y24has/Leetcode/tree/master/0706-design-hashmap) |
 | [0937-online-stock-span](https://github.com/y24has/Leetcode/tree/master/0937-online-stock-span) |
@@ -1162,4 +1165,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/y24has/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/y24has/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
