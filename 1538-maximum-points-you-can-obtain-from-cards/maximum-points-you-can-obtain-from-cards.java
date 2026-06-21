@@ -1,28 +1,40 @@
 class Solution {
-    public int maxScore(int[] cardPoints, int g_k) {
-        int n=cardPoints.length;
-        if(n==g_k){
-            int sum=0;
-            for(int val:cardPoints) sum+=val;
-            return sum;
+    public int maxScore(int[] cardPoints, int k) {
+
+        int n = cardPoints.length;
+        
+        // Step 1: Calculate total sum
+        int totalSum = 0;
+        for (int point : cardPoints) {
+            totalSum += point;
         }
-        int total_sum=0;
-        for(int ele:cardPoints){
-            total_sum+=ele;
+          if (n == k)return totalSum;
+        // Step 2: Size of leftover subarray
+        int windowSize = n - k;
+
+        // Step 3: Sum of first window
+        int currentWindowSum = 0;
+        for (int i = 0; i < windowSize; i++) {
+            currentWindowSum += cardPoints[i];
         }
-        int k=n-g_k;
-        int win_sum=0;
-        for(int i=0;i<k;i++){
-            win_sum+=cardPoints[i];
+
+        // Initially, first window is the minimum
+        int minWindowSum = currentWindowSum;
+
+        // Step 4: Slide the window
+        for (int right = windowSize; right < n; right++) {
+
+            // Remove leftmost element
+            currentWindowSum -= cardPoints[right - windowSize];
+
+            // Add new right element
+            currentWindowSum += cardPoints[right];
+
+            // Update minimum window sum
+            minWindowSum = Math.min(minWindowSum, currentWindowSum);
         }
-        int sum=win_sum;
-        for(int j=k;j<n;j++){
-            sum-=cardPoints[j-k];
-            sum+=cardPoints[j];
-            if(sum<win_sum){
-                win_sum=sum;
-            }
-        }
-        return total_sum-win_sum;
+
+        // Step 5: Maximum score
+        return totalSum - minWindowSum;
     }
 }
