@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/y24has/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1054-distant-barcodes](https://github.com/y24has/Leetcode/tree/master/1054-distant-barcodes) |
 | [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/y24has/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/y24has/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/y24has/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1695-maximum-erasure-value](https://github.com/y24has/Leetcode/tree/master/1695-maximum-erasure-value) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/y24has/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/y24has/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/y24has/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/y24has/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/y24has/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/y24has/Leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/y24has/Leetcode/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1328-break-a-palindrome](https://github.com/y24has/Leetcode/tree/master/1328-break-a-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/y24has/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1542-consecutive-characters](https://github.com/y24has/Leetcode/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/y24has/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/y24has/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
