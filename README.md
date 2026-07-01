@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2105-watering-plants-ii](https://github.com/y24has/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/y24has/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/y24has/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/y24has/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/y24has/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/y24has/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/y24has/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/y24has/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2405-optimal-partition-of-string](https://github.com/y24has/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/y24has/Leetcode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/y24has/Leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/y24has/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1834-single-threaded-cpu](https://github.com/y24has/Leetcode/tree/master/1834-single-threaded-cpu) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/y24has/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/y24has/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/y24has/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2512-reward-top-k-students](https://github.com/y24has/Leetcode/tree/master/2512-reward-top-k-students) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/y24has/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1077,6 +1080,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/y24has/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/y24has/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/y24has/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/y24has/Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/y24has/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -1204,4 +1208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/y24has/Leetcode/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/y24has/Leetcode/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/y24has/Leetcode/tree/master/1472-design-browser-history) |
+## Enumeration
+|  |
+| ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/y24has/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 <!---LeetCode Topics End-->
