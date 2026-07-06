@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/y24has/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/y24has/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/y24has/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/y24has/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1352-product-of-the-last-k-numbers](https://github.com/y24has/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/y24has/Leetcode/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/y24has/Leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/y24has/Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/y24has/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/y24has/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1338-reduce-array-size-to-the-half](https://github.com/y24has/Leetcode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/y24has/Leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
