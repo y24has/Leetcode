@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/y24has/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/y24has/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/y24has/Leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/y24has/Leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/y24has/Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/y24has/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/y24has/Leetcode/tree/master/0502-ipo) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/y24has/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/y24has/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/y24has/Leetcode/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/y24has/Leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/y24has/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/y24has/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/y24has/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/y24has/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/y24has/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/y24has/Leetcode/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/y24has/Leetcode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/y24has/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/y24has/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/y24has/Leetcode/tree/master/0735-asteroid-collision) |
@@ -1122,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/y24has/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/y24has/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0456-132-pattern](https://github.com/y24has/Leetcode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/y24has/Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/y24has/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/y24has/Leetcode/tree/master/0853-car-fleet) |
@@ -1172,6 +1176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/y24has/Leetcode/tree/master/0456-132-pattern) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2349-design-a-number-container-system](https://github.com/y24has/Leetcode/tree/master/2349-design-a-number-container-system) |
 ## Monotonic Queue
