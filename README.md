@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/y24has/Leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/y24has/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/y24has/Leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/y24has/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/y24has/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3208-alternating-groups-ii](https://github.com/y24has/Leetcode/tree/master/3208-alternating-groups-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/y24has/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/y24has/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/y24has/Leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3208-alternating-groups-ii](https://github.com/y24has/Leetcode/tree/master/3208-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/y24has/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/y24has/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
