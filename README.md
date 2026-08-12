@@ -774,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/y24has/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/y24has/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/y24has/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/y24has/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/y24has/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/y24has/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/y24has/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/y24has/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -924,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/y24has/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/y24has/Leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/y24has/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/y24has/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/y24has/Leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/y24has/Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
