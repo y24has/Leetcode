@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2105-watering-plants-ii](https://github.com/y24has/Leetcode/tree/master/2105-watering-plants-ii) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/y24has/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2140-solving-questions-with-brainpower](https://github.com/y24has/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/y24has/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/y24has/Leetcode/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2206-divide-array-into-equal-pairs](https://github.com/y24has/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/y24has/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/y24has/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2140-solving-questions-with-brainpower](https://github.com/y24has/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 ## Counting
 |  |
 | ------- |
