@@ -1,44 +1,55 @@
 class Solution {
-    public int minPathSum(int[][] grid) {
-        int n=grid.length;
-        int m=grid[0].length;
+public int minPathSum(int[][] grid) {
+int m = grid.length;
+int n = grid[0].length;
 
-        int[][] min=new int[n][m];
-
-        PriorityQueue<int[]> q=new PriorityQueue<>((a,b)->a[0]-b[0]);
-
-        q.offer(new int[]{grid[0][0],0,0});
-        for(int[] row:min){
-            Arrays.fill(row,Integer.MAX_VALUE);
+    // 1. The Setup
+    // Initialize memo cache. We fill it with -1 because 
+    // 0 is technically a valid path cost in this problem!
+    int[][] memo = new int[m][n];
+    for (int i = 0; i < m; i++) {
+        for (int j = 0; j < n; j++) {
+            memo[i][j] = -1;
         }
-
-        min[0][0]=grid[0][0];
-        int[] drow = {1, 0};  // down, right
-        int[] dcol = {0, 1};  // down, right
-
-
-        while(!q.isEmpty()){
-            int[] curr=q.poll();
-            int val=curr[0],row=curr[1],col=curr[2];
-            
-            if (val > min[row][col]) continue;
-
-            for(int i=0;i<2;i++){
-                int r=row+drow[i];
-                int c=col+dcol[i];
-
-                if(r >= 0 && r < n && c >= 0 && c < m){
-               int newsum=val+grid[r][c];
-               if(newsum<min[r][c]){
-                min[r][c]=newsum;
-                q.offer(new int[]{newsum,r,c});
-               }
-
-                }
-            }
-
-        }
-     return min[n-1][m-1];
     }
+    
+    // 2. Start the engine at the top-left corner
+    return helper(0, 0, grid, memo);
+}
+
+private int helper(int row, int col, int[][] grid, int[][] memo) {
+    int m = grid.length;
+    int n = grid[0].length;
+    
+    // Bouncer Rule 1: Out of Bounds (The Cliff)
+    // Return a massive number so Math.min NEVER picks this path.
+    if (row >= m || col >= n) {
+        return 200000; // Big enough to be infinity, small enough to prevent overflow
+    }
+    
+    // Bouncer Rule 2: Victory (The Finish Line)
+    // You nailed this: just return the cost of the final square!
+    if (row == m - 1 && col == n - 1) {
+        return grid[row][col];
+    }
+    
+    // Cache Check
+    if (memo[row][col] != -1) {
+        return memo[row][col];
+    }
+    
+    // The Transitions (Look down and look right)
+    int cost_down = helper(row + 1, col, grid, memo);
+    int cost_right = helper(row, col + 1, grid, memo);
+    
+    // The Math (Your exact logic)
+    int cheapest_future = Math.min(cost_down, cost_right);
+    int total_cost = grid[row][col] + cheapest_future;
+    
+    // Save and return
+    memo[row][col] = total_cost;
+    return total_cost;
+}
+
 
 }
