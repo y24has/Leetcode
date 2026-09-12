@@ -436,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/y24has/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/y24has/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/y24has/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/y24has/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/y24has/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/y24has/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/y24has/Leetcode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/y24has/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/y24has/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/y24has/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/y24has/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/y24has/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -1310,4 +1312,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/y24has/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/y24has/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
