@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/y24has/Leetcode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3208-alternating-groups-ii](https://github.com/y24has/Leetcode/tree/master/3208-alternating-groups-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/y24has/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/y24has/Leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3374-count-alternating-subarrays](https://github.com/y24has/Leetcode/tree/master/3374-count-alternating-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/y24has/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/y24has/Leetcode/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/y24has/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2140-solving-questions-with-brainpower](https://github.com/y24has/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/y24has/Leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Counting
 |  |
 | ------- |
@@ -1071,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/y24has/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/y24has/Leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/y24has/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/y24has/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Topological Sort
