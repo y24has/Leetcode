@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/y24has/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/y24has/Leetcode/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/y24has/Leetcode/tree/master/0576-out-of-boundary-paths) |
+| [0688-knight-probability-in-chessboard](https://github.com/y24has/Leetcode/tree/master/0688-knight-probability-in-chessboard) |
 | [0746-min-cost-climbing-stairs](https://github.com/y24has/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/y24has/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
