@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-minimum-time-to-complete-trips](https://github.com/y24has/Leetcode/tree/master/2294-minimum-time-to-complete-trips) |
 | [2295-replace-elements-in-an-array](https://github.com/y24has/Leetcode/tree/master/2295-replace-elements-in-an-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/y24has/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/y24has/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/y24has/Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [2381-shifting-letters-ii](https://github.com/y24has/Leetcode/tree/master/2381-shifting-letters-ii) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/y24has/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2140-solving-questions-with-brainpower](https://github.com/y24has/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/y24has/Leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 ## Counting
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/y24has/Leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/y24has/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/y24has/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/y24has/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2793-count-the-number-of-complete-components](https://github.com/y24has/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -971,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/y24has/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/y24has/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/y24has/Leetcode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/y24has/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Stack
@@ -1076,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/y24has/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/y24has/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2103-find-all-groups-of-farmland](https://github.com/y24has/Leetcode/tree/master/2103-find-all-groups-of-farmland) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/y24has/Leetcode/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/y24has/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -1087,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/y24has/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/y24has/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/y24has/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -1300,6 +1307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/y24has/Leetcode/tree/master/1791-find-center-of-star-graph) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Geometry
 |  |
 | ------- |
