@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/y24has/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/y24has/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/y24has/Leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/y24has/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1472-design-browser-history](https://github.com/y24has/Leetcode/tree/master/1472-design-browser-history) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/y24has/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/y24has/Leetcode/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/y24has/Leetcode/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/y24has/Leetcode/tree/master/1035-uncrossed-lines) |
 | [1402-reducing-dishes](https://github.com/y24has/Leetcode/tree/master/1402-reducing-dishes) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/y24has/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/y24has/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/y24has/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1359,6 +1361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/y24has/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/y24has/Leetcode/tree/master/1035-uncrossed-lines) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/y24has/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Rolling Hash
 |  |
 | ------- |
