@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/y24has/Leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1876-map-of-highest-peak](https://github.com/y24has/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/y24has/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/y24has/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/y24has/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/y24has/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/y24has/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/y24has/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/y24has/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/y24has/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/y24has/Leetcode/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2140-solving-questions-with-brainpower](https://github.com/y24has/Leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/y24has/Leetcode/tree/master/2684-maximum-number-of-moves-in-a-grid) |
